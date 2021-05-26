@@ -1,5 +1,4 @@
-<h1>Hi </h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+<h1>Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 👋 I’m Ronak Sharma. \
 👀 I’m interested in Opensource, Web development, Android Development.\
