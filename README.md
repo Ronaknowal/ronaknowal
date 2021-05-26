@@ -14,8 +14,8 @@
 [![Ronak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ronaknowal&theme=radical)](https://github.com/ronaknowal) \
 <!-- Actual text -->
 
-#Find me on: 
-[![Twitter][1.4]][1], or on [![LinkedIn][2.4]][2]. [![Instagram][3.4]][3].
+# Find me on: 
+[![Twitter][1.4]][1]  [![LinkedIn][2.4]][2]  [![Instagram][3.4]][3]
 
 <!-- Icons -->
 
