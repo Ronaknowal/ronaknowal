@@ -14,15 +14,16 @@
 [![Ronak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ronaknowal&theme=radical)](https://github.com/ronaknowal) \
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+You can find me on [![Twitter][1.4]][1], or on [![LinkedIn][2.4]][2]. [![Instagram][3.4]][3].
 
 <!-- Icons -->
 
-[1.2]: https://img.icons8.com/color/48/000000/twitter--v1.png
-[2.2]: https://img.icons8.com/fluent/48/000000/linkedin.png
-
+[1.4]: https://img.icons8.com/color/48/000000/twitter--v1.png
+[2.4]: https://img.icons8.com/fluent/48/000000/linkedin.png
+[3.4]: https://img.icons8.com/color/48/000000/instagram-new--v2.png
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/RonakNowal
 [2]: https://www.linkedin.com/in/ronak-sharma-a6455a1b5/
+[3]: https://www.instagram.com
 view rawsocial_icons hosted with ❤ by GitHub
