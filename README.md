@@ -25,5 +25,5 @@ You can find me on [![Twitter][1.4]][1], or on [![LinkedIn][2.4]][2]. [![Instagr
 
 [1]: https://twitter.com/RonakNowal
 [2]: https://www.linkedin.com/in/ronak-sharma-a6455a1b5/
-[3]: https://www.instagram.com
+[3]: https://www.instagram.com/ronak__sharma/
 view rawsocial_icons hosted with ❤ by GitHub
