@@ -19,7 +19,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1622049108~hmac=900123b3ab05fc5af7779ca7df46ae5d
 
 <!-- Links to your social media accounts -->
 
