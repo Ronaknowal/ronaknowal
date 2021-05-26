@@ -8,5 +8,5 @@
 
 [![Ronak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaknowal)](https://github.com/Ronaknowal) \
 ![Ronak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaknowal&show_icons=true&theme=tokyonight) \
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaknowal&layout=compact)](https://github.com/ronaknowal)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaknowal&layout=compact&bg_color=black)](https://github.com/ronaknowal) \
 [![Ronak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ronaknowal)](https://github.com/ronaknowal)
