@@ -15,7 +15,7 @@
 
 # Reach me :
 [![Twitter][1.4]][1]  [![LinkedIn][2.4]][2] [![Instagram][4.4]][4] \
-[![G-mail][3.4]][4] <h1>ronaknowal@gmail.com</h1>
+<h1> [![G-mail][3.4]][4] ronaknowal@gmail.com</h1>
 <!-- Icons -->
 
 [1.4]: https://img.icons8.com/color/48/000000/twitter--v1.png
