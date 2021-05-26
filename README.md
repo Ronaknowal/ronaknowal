@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaknowal)](https://github.com/anuraghazra/github-readme-stats)
+
 👋 Hi, I’m Ronak Sharma.
 👀 I’m interested in Opensource, Web development, Android Development.
 🌱 I’m currently Pursuing Computer Science and Engineering.
