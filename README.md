@@ -5,7 +5,7 @@
 👀 I’m interested in Opensource, Web development, Android Development.\
 🌱 I’m currently Pursuing Computer Science and Engineering.\
 💞️ I’m looking to collaborate on ...\
-📫 How to reach me : E-mail - ronaknowal@gmail.com , Linkedin link : https://www.linkedin.com/in/ronak-sharma-a6455a1b5/ \
+📫 How to reach me : [![G-mail][3.4]][4]  - ronaknowal@gmail.com
 
 <hr>
 
@@ -15,15 +15,17 @@
 <!-- Actual text -->
 
 # Find me on: 
-[![Twitter][1.4]][1]  [![LinkedIn][2.4]][2]  [![Instagram][3.4]][3]
+[![Twitter][1.4]][1]  [![LinkedIn][2.4]][2] [![Instagram][4.4]][4]
 
 <!-- Icons -->
 
 [1.4]: https://img.icons8.com/color/48/000000/twitter--v1.png
 [2.4]: https://img.icons8.com/fluent/48/000000/linkedin.png
-[3.4]: https://img.icons8.com/color/48/000000/instagram-new--v2.png
+[3.4]: https://img.icons8.com/color/48/000000/gmail.png
+[4.4]: https://img.icons8.com/color/48/000000/instagram-new--v2.png
+
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/RonakNowal
 [2]: https://www.linkedin.com/in/ronak-sharma-a6455a1b5/
-[3]: https://www.instagram.com/ronak__sharma/
+[4]: https://www.instagram.com/ronak__sharma/
