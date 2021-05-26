@@ -1,4 +1,5 @@
-<h1>Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 👋 I’m Ronak Sharma. \
 👀 I’m interested in Opensource, Web development, Android Development.\
@@ -10,4 +11,5 @@
 
 ![Ronak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaknowal&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaknowal&layout=compact&theme=radical)](https://github.com/ronaknowal) \
-[![Ronak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ronaknowal&theme=radical)](https://github.com/ronaknowal)
+[![Ronak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ronaknowal&theme=radical)](https://github.com/ronaknowal) \
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/svgs/HTML5.svg" width="30px">
