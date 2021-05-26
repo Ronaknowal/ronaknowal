@@ -5,7 +5,6 @@
 👀 I’m interested in Opensource, Web development, Android Development.\
 🌱 I’m currently Pursuing Computer Science and Engineering.\
 💞️ I’m looking to collaborate on ...\
-📫 How to reach me : [![G-mail][3.4]][4]  - ronaknowal@gmail.com
 
 <hr>
 
@@ -14,9 +13,9 @@
 [![Ronak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ronaknowal&theme=radical)](https://github.com/ronaknowal) \
 <!-- Actual text -->
 
-# Find me on: 
-[![Twitter][1.4]][1]  [![LinkedIn][2.4]][2] [![Instagram][4.4]][4]
-
+# Reach me :
+[![Twitter][1.4]][1]  [![LinkedIn][2.4]][2] [![Instagram][4.4]][4] \
+[![G-mail][3.4]][4] ronaknowal@gmail.com
 <!-- Icons -->
 
 [1.4]: https://img.icons8.com/color/48/000000/twitter--v1.png
