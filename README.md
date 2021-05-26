@@ -10,6 +10,7 @@
 
 ![Ronak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaknowal&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaknowal&layout=compact&theme=radical)](https://github.com/ronaknowal) \
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ronaknowal&theme=radical&hide_border=true)](https://git.io/streak-stats)
 [![Ronak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ronaknowal&theme=radical)](https://github.com/ronaknowal) \
 <!-- Actual text -->
 
