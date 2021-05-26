@@ -1,6 +1,7 @@
-<h1>About Me </h1> 
+<h1>Hi </h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-👋 Hi, I’m Ronak Sharma. \
+
+👋 I’m Ronak Sharma. \
 👀 I’m interested in Opensource, Web development, Android Development.\
 🌱 I’m currently Pursuing Computer Science and Engineering.\
 💞️ I’m looking to collaborate on ...\
