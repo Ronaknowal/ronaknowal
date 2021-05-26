@@ -14,8 +14,8 @@
 <!-- Actual text -->
 
 # Reach me :
-[![Twitter][1.4]][1]  [![LinkedIn][2.4]][2] [![Instagram][4.4]][4] \
-[![G-mail][3.4]][4] <p> ronaknowal@gmail.com </p>
+[![Twitter][1.4]][1]  [![LinkedIn][2.4]][2] [![Instagram][4.4]][4] 
+[![G-mail][3.4]][4] <p style="font-size: 20;"> ronaknowal@gmail.com </p>
 <!-- Icons -->
 
 [1.4]: https://img.icons8.com/color/48/000000/twitter--v1.png
