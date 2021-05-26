@@ -6,3 +6,4 @@
 
 [![Ronak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaknowal)](https://github.com/Ronaknowal)
 ![Ronak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaknowal&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaknowal)](https://github.com/ronaknowal)
