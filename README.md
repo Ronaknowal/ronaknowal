@@ -9,6 +9,7 @@
 
 ### MY TECH STACK:
 #### Machine Learing Stack:
+![GitHub](https://img.shields.io/badge/Hub-%2F?style=plastic&logo=git&logoColor=white&label=Git&labelColor=black&color=yellow&link=www.pornhub.com)
 [![Python](https://img.shields.io/badge/-Python-033800?&logo=python&logoColor=0bf)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-055e00?&logo=PyTorch&logoColor=f00)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-067300?&logo=TensorFlow&logoColor=f77c00)
