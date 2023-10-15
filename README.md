@@ -2,9 +2,11 @@
 
 
 👋 I’m Ronak Sharma. \
-👀 I’m interested in Machine Learning and Reinforcement Learning.\
-🌱 I’m currently Pursuing Computer Science and Engineering.\
-💞️ I’m looking to collaborate on new projects.
+🌱 Currently Pursuing Computer Science and Engineering.\
+🤖 Passionate about Machine Learning and Reinforcement Learning.\
+🔬 Exploring the realms of AI and Machine Learning.\
+🛠️ Building projects that make a positive impact on society.\
+🧠 Always eager to learn and share knowledge.
 
 
 ### MY TECH STACK:
