@@ -1,4 +1,4 @@
-# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hey
 
 
 👋 I’m Ronak Sharma. \
@@ -26,6 +26,6 @@
 ![Ronak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronaknowal&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ronaknowal&theme=tokyonight_duo&fire=D825DD)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaknowal&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/ronaknowal)
 
-# Reach me :
+### Reach me :
 
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url)
