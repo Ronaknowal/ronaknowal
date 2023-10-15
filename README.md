@@ -30,4 +30,5 @@
 
 ### Reach me :
 
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fronak-sharma-a6455a1b5%2F)
+
